@@ -1,3 +1,10 @@
+/* This is linear search in searching algorithms and this is not widly used so this works on both sorted and the unsorted array and can be implemented through array
+and linked lists and their complexity is given below
+
+Time complexity - O(n)
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int lisearch(int a[], int key, int j){
