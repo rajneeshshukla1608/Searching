@@ -1,7 +1,8 @@
 /* This is one of the used searching algorithms in DSA so it only works on sorted array the complexity are given below
 
-Time complexity - O(n)
-Recurrence relation complexity - O(n)
+Time complexity - O(logn)
+Recurrence relation complexity - O(logn)
+
 
 */
 
