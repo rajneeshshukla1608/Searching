@@ -1,3 +1,6 @@
+/*
+Time complexity = O(logn)
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
